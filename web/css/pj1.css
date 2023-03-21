@@ -1,0 +1,16 @@
+img {
+    background-color: black;
+}
+
+#div1 {
+    background-color: black;
+    border-style: double;
+}
+#div2 {
+    background-color: gold;
+    float: right;
+}
+input {
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
